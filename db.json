@@ -20,7 +20,7 @@
           "id":"#italiansandwich"
       },{
           "img":"https://www.delino.com/img/general/cats/icon-appetizer.png",
-          "caption":"چیپس و پنیر",
+          "caption" : "چیپس و پنیر",
           "id":"#chipsandchees"
       },{
           "img":"https://www.delino.com/img/general/cats/icon-burger.png",
