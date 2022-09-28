@@ -1,7 +1,8 @@
 {
   "posts":[
-    "id" : 1,
-    "NavMenuList" : [
+    {
+      "id" : 1,
+    "NavMenuList":[
       {
           "img":"https://www.delino.com/img/general/cats/icon-pizza.png",
           "caption":"پیتزا امریکایی",
@@ -20,7 +21,7 @@
           "id":"#italiansandwich"
       },{
           "img":"https://www.delino.com/img/general/cats/icon-appetizer.png",
-          "caption" : "چیپس و پنیر",
+          "caption":"چیپس و پنیر",
           "id":"#chipsandchees"
       },{
           "img":"https://www.delino.com/img/general/cats/icon-burger.png",
@@ -44,6 +45,7 @@
           "id":"#drinks"
       }
   ]
+    }
   ]
 }
 
